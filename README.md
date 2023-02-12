@@ -14,7 +14,7 @@
    
    ###### Note: You have to just hit above end point.
    
-   =================================================================================
+   ==================================================================
    
  2. Get User By ID:
    - http://localhost:8080/api/v1/user-management-app/get-user/userid/1001
@@ -23,7 +23,7 @@
    
    ###### Note: You have to just hit above end point and pass userid.
    
-   =================================================================================
+   ==================================================================
    
 3. Add User:
    - http://localhost:8080/api/v1/user-management-app/add-user
@@ -33,7 +33,7 @@
    
    ###### Note: You have to use post method and pass the body as shown in the above image.
    
-   =================================================================================
+   ===================================================================
    
 4. Delete-User:
    - http://localhost:8080/api/v1/user-management-app/delete-user/userid/1001
@@ -43,7 +43,7 @@
    
    ###### Note: You have to use delete method and pass userid.
    
-   =================================================================================
+   ===================================================================
    
 5. Update-User:
    - http://localhost:8080/api/v1/user-management-app/update-user/userid/1001
